@@ -1,0 +1,63 @@
+.head {
+  background-color: #3B5998;
+  display: flex;
+}
+
+.face {
+  font-size: 40px;
+  padding-left: 185px;
+  padding-top: 20px;
+}
+
+.btn-c {
+  background-color: #13cf13;
+  height: 30px;
+  font-size: 15px;
+  font-weight: bold;
+  margin-top: 40px;
+}
+
+.btn-z {
+  margin-top: 100px;
+  margin-left: 180px;
+}
+
+.heda {
+  font-size: 13px;
+  margin-left: 550px;
+  margin-top: 35px;
+}
+
+.create {
+  margin-left: 60px;
+  margin-top: 20px;
+}
+
+.rw{
+  margin-left: 50px;
+  margin-right: 60px;
+  margin-top: 60px;
+}
+
+.br {
+  height: 500px;
+  background-color: white;
+}
+
+.fst {
+  margin-left: 130px;
+  margin-top: 30px;
+}
+
+.hd {
+  margin-top: 20px;
+}
+
+.text {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+body {
+  background-color: #F2F2F2;
+}
